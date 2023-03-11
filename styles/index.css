@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(
+    to right,
+    #8f94fb,
+    #4e54c8
+  );
+}
+
+#navItem {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  font-weight: bolder;
+  justify-content: center;
+  padding: 30px;
+}
+
+#container1 {
+  display: flex;
+  justify-content: center;
+  height: 70vh;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
