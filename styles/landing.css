@@ -1,0 +1,33 @@
+
+
+#navItem {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  font-weight: bolder;
+  justify-content: center;
+  padding: 30px;
+  border: 2px solid red;
+  margin: 0;
+}
+
+#container1 {
+  display: flex;
+  justify-content: center;
+  height: 70vh;
+}
+
+#cardCenter{
+  border: 2px solid blue;
+}
+
+footer {
+  display: flex;
+  border: 2px solid red;
+  justify-content: center;
+  padding: 13.8px;
+}
+
+#footerItem{
+  list-style: none;
+}
